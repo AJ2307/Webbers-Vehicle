@@ -9,7 +9,7 @@
 **English:
 
 - The usage of every vehicle for every project is permitted to everyone with access to this reposetory.
-- Some files are not finished yet, still in development or just buggy. A patch to fix this problems will not arrive!
+- Some files are not finished yet, still in development or just buggy. A patch to fix any problems will not arrive!
 - The reuse of the vehicles in any purpse is allowed if I will be credited.
 - There will not be any support if problem occur.
 
